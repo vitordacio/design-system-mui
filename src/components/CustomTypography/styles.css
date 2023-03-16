@@ -1,0 +1,30 @@
+.h3 {
+    margin-bottom: 61px !important;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.h4 {
+    margin-bottom: 37px !important;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.caption {
+    font-size: 12px;
+    letter-spacing: 0.4px;
+
+    color: rgba(34, 34, 34, 0.87);
+    margin-bottom: 11px;
+}
+
+.overline {
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+
+    color: rgba(101, 101, 101, 0.87);
+}
+
+.body2 {
+    background: #FEFEFE;
+    border-radius: 16px;
+}

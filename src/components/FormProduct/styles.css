@@ -1,0 +1,9 @@
+form {
+    width: 400px;
+    /* padding: 8px; */
+    /* border: 1px solid red */
+}
+
+form>div {
+    margin-bottom: 48px !important;
+}
