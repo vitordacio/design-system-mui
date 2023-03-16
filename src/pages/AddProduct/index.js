@@ -19,7 +19,7 @@ function AddProduct() {
         <FormProduct />
         <div style={{ borderBottom: '1px solid #BFBFBF', marginTop: '83px', marginBottom: '35px' }} />
         <div className='product-actions'>
-          <CustomButton variant={'text'} text={'Cancelar'} />
+          <CustomButton variant={'text'} text={'Cancelar'} path={'/'} />
           <CustomButton variant={'contained'} text={'Adicionar produto'} setOpen={setOpen} />
         </div>
         <SnackBar open={open} setOpen={setOpen} />
